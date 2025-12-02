@@ -61,7 +61,7 @@ src
 
 ⚙️ Instalación y configuración
 1. Clonar repositorio
-git clone https://github.com/tuusuario/inventoryapi.git
+git clone https://github.com/KevinDev3003/inventoryapi.git
 cd inventoryapi
 
 2. Configurar MongoDB
